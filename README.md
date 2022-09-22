@@ -6,4 +6,4 @@ Main language : C++
 I have knowledge in C, and I know a little HTML, php languages. 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jootzu&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jootzu&show_icons=true&theme=tokyonight)
